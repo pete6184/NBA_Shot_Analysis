@@ -1,6 +1,6 @@
 # NBA_Shot_Analysis
 
-# Requirements / Project Analysis
+# Requirements & Summary
 
 In this project, our group used Jupyter Notebook. We used Python and Pandas to write the code and clean the data.
 
