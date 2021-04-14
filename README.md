@@ -16,4 +16,8 @@ I then created scatter plots to visualize our findings. The data turned out as e
 
 Lastly, I created a dataframe that put the shot clock times into five separate bins to confirm the data we were seeing on the scatter plots.
 
-![shotClock](output_data/Images/FG1%.png)
+![shotClock](output_data/Images/FG%1.png)
+
+![2ptShots](output_data/Images/FG%2.png)
+
+![3ptShots](output_data/Images/FG%3.png)
