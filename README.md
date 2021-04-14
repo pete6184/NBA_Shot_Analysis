@@ -15,9 +15,3 @@ I decided to then break down the data even further and run the same analysis on 
 I then created scatter plots to visualize our findings. The data turned out as expected in that we found that field goal percentage dropped with the time remaining on the shot clock and was at its lowest with less than 5 seconds remaining on the shot clock. 
 
 Lastly, I created a dataframe that put the shot clock times into five separate bins to confirm the data we were seeing on the scatter plots.
-
-![shotClock](output_data/Images/FG%1.png)
-
-![2ptShots](output_data/Images/FG%2.png)
-
-![3ptShots](output_data/Images/FG%3.png)
